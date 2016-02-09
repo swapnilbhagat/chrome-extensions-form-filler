@@ -10,4 +10,4 @@
 * Click on developer mode
 * Click on Load unpacked extension button and select repository folder
 * Chrome extension should be added to browser
-* Open test-page.html and click on chrome extension icon
+* Open test-page.html and click on chrome extension icon of form
