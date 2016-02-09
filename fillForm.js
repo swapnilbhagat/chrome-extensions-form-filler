@@ -6,8 +6,6 @@ function fillForm() {
 	window.document.getElementById("city").value="Pune";
 	
 	window.document.getElementById("text").innerHTML = 'Text that got changed';
-	
-	window.alert("Filled Form");
 }
 
 chrome.runtime.sendMessage({
